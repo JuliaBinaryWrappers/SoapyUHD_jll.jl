@@ -1,0 +1,164 @@
+[[SoapyUHD]]
+arch = "aarch64"
+git-tree-sha1 = "4b028853828c28d0819a138a27b67fbe50748b41"
+os = "macos"
+
+    [[SoapyUHD.download]]
+    sha256 = "97dfc5f10fe856714654d75c843ad04554819f44d1cde9e204f98aad9350862a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.aarch64-apple-darwin.tar.gz"
+[[SoapyUHD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5bdf3fd9bc46abcf1d7f921b065431bda65ac88"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "9d4a29d1c7b9afd32213309f7ca391866232d3fb5d0f734bd246f5c17eedf0b2"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a3939a91afde26e5194c80df3204d699bb375cd"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "2a926bcbd401ba75452c7226562d1d36508b965dfc208659c7cc7ac2e810dc6b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6725614ce8edb1a84cff756b9481d2eb8fdfbbc9"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "958f066599d67feeb72b60c4d3cfc252ad38ce0c5d70656f50df75e0dc1fae7a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.aarch64-linux-musl-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5f69ccfbd2fdb6a8b3d64bdda184691f84140ec"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "384f273492dac735af98e4dc3fcbada3338cbeeb5476a428da08d6a67bb787a2"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.aarch64-linux-musl-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b991ac439d3ebe35cac38db2ae1d6ca0e5b56193"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "c50b32af5a8afdee7608e2404fcfb1150d8a261b0d6c27ab4a2c15c0f36b72f8"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.i686-linux-gnu-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9132d7f25b1129e99aeefd1e7b4033715e1edfbc"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "d75f5343b5a9d85629aa1a4a7e5a7fb280b8583a5504da836951a08f30baed26"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.i686-linux-gnu-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a208516bc8ce911596cb13bb29053859925716a2"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "eb128f548510dc7607f7870c0ddda77a15012363e6d162f264008dc9d9385d2a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.i686-linux-musl-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "178051411a28717d1c8e1881b91f11a159fcac43"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "e2444228d11f888aab3d8f2cca8d1ee9099c22d794a1bb03ff60974258066d3c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.i686-linux-musl-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c77fb8cd7052d60f9d426f1f586406cf98b22ec1"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "2f7e28f96ac81b48b84d4a8f419d96c4800500e0bae30d0cc551228327bf9408"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7cd0a6139de3dc2d5ac8ae73ab424cbafa746a78"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "d81e7327eb17fd83fecc4e3ad27c7bbdf57b8dbc63e6646098a054a57795d2bf"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+git-tree-sha1 = "96d53c20a0fd9a8d7ca419cbcd1fe2ec9514cdc0"
+os = "macos"
+
+    [[SoapyUHD.download]]
+    sha256 = "07574d1e841c209684f26dd041aec76e11e6735322c513df359b87efd1e05e7f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-apple-darwin.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9adcc85d24e8c7132658bc620081ef4a536fd4c2"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "90dacfba2bed617368b1596d2152f9dd357dfe7f5acefdfd415dbde7f42b1e56"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "595c814d351d5c1c3c0da5a611d708752a3c5657"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "0efbf4668d1700b18a689d7616735b613b52f8f2d6c4ab0b52589e34b266c529"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4055c1bdffb5d815820a5ec0203497f6b613699c"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "23971d37ce812499a1b02b257e8f0d38b2b9d9a15cd9e04dc324f0eccc8fd7ab"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-linux-musl-cxx03.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3470a8ade40b1e858e6dfc6a31062d5f0212fbc2"
+libc = "musl"
+os = "linux"
+
+    [[SoapyUHD.download]]
+    sha256 = "f61203b985c15ce31acba7799d010c05c6849e2cf88aea86394973c2066b6f4e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-linux-musl-cxx11.tar.gz"
+[[SoapyUHD]]
+arch = "x86_64"
+git-tree-sha1 = "8ae89bcfb38a25cea232df66e999553d8005fd6f"
+os = "freebsd"
+
+    [[SoapyUHD.download]]
+    sha256 = "ce520df4dde8076c1df28b1c0a5fb54b11ca99affe39bcbfff5bdce716953a37"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyUHD_jll.jl/releases/download/SoapyUHD-v0.4.1+0/SoapyUHD.v0.4.1.x86_64-unknown-freebsd.tar.gz"
